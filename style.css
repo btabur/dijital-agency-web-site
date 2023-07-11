@@ -20,6 +20,23 @@ body {
 .icon-add {
   transform: rotate(45deg);
 }
+.bg-gradient-left {
+  margin-top: -200px;
+
+}
+.bg-gradient-left .bg {
+  width:400px;
+  height: 400px;
+  transform: rotate(-45deg);
+  background-image: linear-gradient(to right, rgba(84, 84, 212, 0.21), rgba(84, 84, 212, 0.0882));;
+  filter: blur(100px);
+  z-index: -1;
+  
+
+}
+.service {
+  margin-top: 200px !important;
+}
 
 /* responsive  telefon */
 
