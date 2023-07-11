@@ -7,3 +7,20 @@ body {
 .menu-home {
     color: #5454D4 !important;
 }
+.icon-menu {
+  color: white !important;
+}
+.icon-play-fill {
+  font-size: 80px;
+}
+
+.banner-left {
+  height: 400px !important;
+}
+.icon-add {
+  transform: rotate(45deg);
+}
+
+/* responsive  telefon */
+
+
