@@ -4,5 +4,5 @@
 
 - ekran gif
 
-! [](ekran-kaydi.gif)
+![](ekran.gif)
 
